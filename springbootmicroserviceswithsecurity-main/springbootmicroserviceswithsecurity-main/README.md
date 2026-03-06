@@ -299,6 +299,3 @@ https://hub.docker.com/repository/docker/noyandocker/springbootmicroserviceswith
 </details>
 
 
-### Contributors
-
-- [Sercan Noyan Germiyanoğlu](https://github.com/Rapter1990)
